@@ -16,4 +16,3 @@ hello git! hello atguigu!  master test
 hello git! hello atguigu!  hot-fix test
 1111111111111111111111111
 hello github!  by nothing
-push test
